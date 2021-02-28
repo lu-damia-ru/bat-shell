@@ -1,0 +1,87 @@
+14/02/2014-15.28.18,60 : INFO : "Init on machine: FCV047" 
+14/02/2014-15.28.18,67 : INFO : "Upgrading AV: \7346xdat.exe" 
+14/02/2014-15.31.31,50 : INFO : FCV047 : "Init on machine: FCV047" 
+14/02/2014-15.31.31,56 : INFO : FCV047 : "Upgrading AV: \7346xdat.exe" 
+04/03/2014- 9.47.22,45 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014- 9.56.18,29 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014- 9.57.23,20 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014-10.00.55,87 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014-10.01.51,27 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014-10.04.41,21 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014-10.07.52,29 : INFO : FCV047 : "Init on machine: FCV047" 
+04/03/2014-10.08.26,95 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.29.18,58 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.29.18,78 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.29.19,72 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.30.56,10 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.30.56,14 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.30.56,17 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.31.36,64 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.31.36,68 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.31.36,72 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.31.50,97 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.31.51,01 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.31.51,04 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.32.42,39 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.32.42,43 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.32.42,47 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.32.58,99 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.32.59,03 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.32.59,06 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.33.19,42 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.33.19,46 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.33.19,49 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.33.30,32 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.33.30,36 : INFO : FCV047 : "Copying backup files in: " 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.33.30,39 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.34.42,62 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.34.42,67 : INFO : FCV047 : "Copying backup files in: \\servvn1\FCVProgetCT\VAXPC\A_Settore_Ricerca e sviluppo\Luigi\Backup Strumenti\" 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.34.42,71 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.36.30,79 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.36.30,85 : INFO : FCV047 : "Copying backup files in: "\\servvn1\FCVProgetCT\VAXPC\A_Settore_Ricerca 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.36.30,89 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.47.51,59 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.47.51,64 : INFO : FCV047 : "Copying backup files in: "L:\Backup 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.47.51,67 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-10.52.04,68 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-10.52.04,73 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\" 
+Impossibile trovare il percorso specificato.
+28/04/2014-10.52.05,32 : INFO : FCV047 : "Removed zip&dat files." 
+Impossibile trovare il percorso specificato.
+Impossibile trovare il percorso specificato.
+28/04/2014-11.06.41,65 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-11.06.41,70 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\*.*" 
+28/04/2014-11.06.41,73 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-11.16.36,27 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-11.16.36,32 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\*.*" 
+28/04/2014-11.16.36,35 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-11.16.52,85 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-11.16.52,90 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\*.*" 
+28/04/2014-11.17.07,58 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-11.17.16,95 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-11.17.17,00 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\*.*" 
+\autorun\backup\TEC217.20140304.zip
+\autorun\backup\UTILISATEUR1-PC.20140428.zip
+\autorun\backup\MSURF1128.20140428.zip
+\autorun\backup\TEC217.20140428.zip
+        4 file copiati.
+28/04/2014-11.17.31,74 : INFO : FCV047 : "Removed zip&dat files." 
+28/04/2014-11.17.52,58 : INFO : FCV047 : "Init on machine: FCV047" 
+28/04/2014-11.17.52,63 : INFO : FCV047 : "Copying backup files in: L:\Backup Strumenti\*.*" 
+\autorun\backup\TEC217.20140304.zip
+\autorun\backup\UTILISATEUR1-PC.20140428.zip
+\autorun\backup\MSURF1128.20140428.zip
+\autorun\backup\TEC217.20140428.zip
+        4 file copiati.
+28/04/2014-11.18.07,89 : INFO : FCV047 : "Removed zip&dat files." 

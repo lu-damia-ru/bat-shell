@@ -1,0 +1,4 @@
+[autorun]
+icon=\autorun\modules\autorun.ico
+open=autorun.bat
+label=RPP Measuring Devices: Backup
