@@ -12,7 +12,7 @@ setlocal
 
 rem sorgente
 echo  SORGENTE:
-set source="D:\Progetti ACCESS"
+set source="D:\Progetti BAT"
 
 
 echo            %source%
@@ -22,7 +22,7 @@ echo.
 
 rem destinazione
 echo  DESTINAZIONE:
-set destination=\\servvn1\FCVProgetCT\VAXPC\\"A_Settore_Ricerca e sviluppo\Luigi\Progetti ACCESS"
+set destination=\\servvn1\FCVProgetCT\VAXPC\\"A_Settore_Ricerca e sviluppo\Luigi\Progetti BAT"
 
 echo                %destination%
 echo.
